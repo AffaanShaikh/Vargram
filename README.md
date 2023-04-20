@@ -14,8 +14,7 @@ HOW TO PLAY : Get 50 points ( 1 point per enemy ) under 30 seconds to win.
            The game difficuilty is set to be challenging. Don't give up!
            
            
-           ![THIS](https://user-images.githubusercontent.com/130907730/233378863-692dc9e2-e3ae-4dfa-9d04-daaaed0fc427.png)
            
            
            
-![THIS2](https://user-images.githubusercontent.com/130907730/233379107-d9a427df-c5bb-4735-99cf-e194dcc0ac49.jpg)
+           ![THIS](https://user-images.githubusercontent.com/130907730/233379293-3f9169c3-9d15-4776-8e1f-d5c47256e09e.png)
