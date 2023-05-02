@@ -104,7 +104,7 @@ window.addEventListener('load', function() {
             this.enemies.push(new FlyingEnemy(this));/*push adds element to the array, and returns the length of the array
             Instance of FlyingEnemy class created and for'game'constructor argument in FlyingEnemy class, 'this' is passed to refer to the main-game object*/
             //console.log(this.enemies);
-            //FINAL CHECK: console.log(this.enemies, this.particles, this.collisions, this.floatingMessages);//logged here so it logs periodically and not every animation frame i.e logged in update() method
+            console.log(this.enemies, this.particles, this.collisions, this.floatingMessages);//logged here so it logs periodically and not every animation frame i.e logged in update() method
         }
     }
 
